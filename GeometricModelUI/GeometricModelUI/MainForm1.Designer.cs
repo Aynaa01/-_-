@@ -1,6 +1,6 @@
 ﻿namespace GeometricModelUI
 {
-    partial class Form1
+    partial class MainForm1
     {
         /// <summary>
         /// Обязательная переменная конструктора.
